@@ -1,0 +1,12 @@
+{
+  "name": "node_training_hw10",
+  "version": "1.0.0",
+  "description": "Repository focusing on Studying node with the focus on the concepts of hash functions and hash tables",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
